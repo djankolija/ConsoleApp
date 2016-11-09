@@ -7,4 +7,9 @@
     {
         System.Console.WriteLine($"My name is: {FirstName} {LastName}");
     }
+
+    public void DoNothing()
+    {
+        return;
+    }
 }
