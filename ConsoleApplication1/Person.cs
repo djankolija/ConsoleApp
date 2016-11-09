@@ -12,4 +12,9 @@
     {
         return;
     }
+
+    private void Reset()
+    {
+
+    }
 }
